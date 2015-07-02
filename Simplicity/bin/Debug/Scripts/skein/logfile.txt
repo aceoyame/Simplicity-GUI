@@ -1,0 +1,2 @@
+SkeinCPU64.EXE: option requires an argument -- T
+Try `minerd --help' for more information.

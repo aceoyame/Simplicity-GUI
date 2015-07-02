@@ -1,0 +1,1 @@
+"C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\bin\Debug\Scripts\skein\SkeinCPU64.exe" -a skein -o stratum+tcp://birdspool.no-ip.org:5589 -u MSCVNyqVJcP9foznJiAASe1219aunKNfvX -p 912837465 --threads 1 2>"C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\bin\Debug\minelog.txt"

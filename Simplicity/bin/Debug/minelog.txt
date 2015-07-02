@@ -1,0 +1,11 @@
+[2014-09-28 14:27:55] 1 miner threads started, using 'skein' algorithm.
+[2014-09-28 14:27:55] Starting Stratum on stratum+tcp://birdspool.no-ip.org:5589
+[2014-09-28 14:27:56] Stratum detected new block
+[2014-09-28 14:27:56] Stratum detected new block
+[2014-09-28 14:28:02] thread 0: 2097152 hashes, 390.03 khash/s
+[2014-09-28 14:28:04] Stratum detected new block
+[2014-09-28 14:28:04] thread 0: 888890 hashes, 384.35 khash/s
+[2014-09-28 14:28:06] Stratum detected new block
+[2014-09-28 14:28:06] thread 0: 840338 hashes, 381.33 khash/s
+[2014-09-28 14:28:09] Stratum detected new block
+[2014-09-28 14:28:09] thread 0: 941984 hashes, 401.89 khash/s

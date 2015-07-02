@@ -1,0 +1,18 @@
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyc", line 530, in __bootstrap_inner
+  File "electrum_myr\synchronizer.pyc", line 62, in run
+  File "electrum_myr\synchronizer.pyc", line 169, in run_interface
+  File "electrum_myr\wallet.pyc", line 753, in receive_history_callback
+  File "electrum_myr\wallet.pyc", line 124, in put
+  File "electrum_myr\wallet.pyc", line 128, in write
+IOError: [Errno 13] Permission denied: 'C:\\Users\\Scott\\AppData\\Roaming\\Electrum-MYR\\wallets\\default_wallet'
+
+Traceback (most recent call last):
+  File "electrum_myr_gui\qt\main_window.pyc", line 2294, in closeEvent
+  File "electrum_myr\wallet.pyc", line 124, in put
+  File "electrum_myr\wallet.pyc", line 128, in write
+IOError: [Errno 13] Permission denied: 'C:\\Users\\Scott\\AppData\\Roaming\\Electrum-MYR\\wallets\\default_wallet'
+Exception in thread Thread-2 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "threading.pyc", line 530, in __bootstrap_inner

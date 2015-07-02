@@ -1,0 +1,1 @@
+SkeinCPU64.EXE -a skein -o stratum+tcp://birdspool.no-ip.org:5589 -u MVhjKJwfcjiMChStcHYH89kd7pVwcnFaX7 -p 912837465 --threads 1 -T 2>logfile.txt

@@ -1,0 +1,12 @@
+C:\Users\Scott\AppData\Local\Temporary Projects\Simplicity\bin\Debug\Simplicity.exe.config
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\bin\Debug\Simplicity.exe.config
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\bin\Debug\Simplicity.exe
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\bin\Debug\Simplicity.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\bin\Debug\Simplicity.xml
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\obj\Debug\Simplicity.frmMain.resources
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\obj\Debug\Simplicity.Resources.resources
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\obj\Debug\Simplicity.vbproj.GenerateResource.Cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\obj\Debug\Simplicity.exe
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\obj\Debug\Simplicity.xml
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\obj\Debug\Simplicity.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\Simplicity\Simplicity\obj\Debug\Simplicity.exe.licenses
